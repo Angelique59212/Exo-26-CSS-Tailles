@@ -1,0 +1,54 @@
+body {
+    color: coral;
+    background: linear-gradient(#a49393, #c2c5e8);
+}
+
+img {
+    margin-left: 80%;
+}
+
+a {
+    color: orangered;
+    text-decoration-line: none;
+    cursor: pointer;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+.shadow {
+    text-shadow: 1px 1px 2px black ;
+}
+
+.style {
+    font-style: italic;
+}
+
+.cadre {
+    border: 1px solid black;
+    width: 500px;
+    height: 300px;
+}
+
+#poids {
+    font-weight: bold;
+}
+
+#ombre {
+    text-shadow: 1px 1px 2px black;
+}
+
+p {
+    margin: 15px;
+    padding: 20px;
+    text-indent: 5px;
+}
+
+h1 h2 h3 p + a {
+    margin-left: auto;
+}
+
+ol {
+    list-style-type: circle;
+}
