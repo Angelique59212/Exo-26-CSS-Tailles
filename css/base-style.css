@@ -1,6 +1,6 @@
 body {
     color: coral;
-    background: linear-gradient(#a49393, #c2c5e8);
+    background: beige;
 }
 
 img {
@@ -10,8 +10,9 @@ img {
 a {
     color: orangered;
     text-decoration-line: none;
-    cursor: pointer;
+    cursor: pointer
 }
+
 
 h1, h2, h3{
     text-align: center;
@@ -37,6 +38,10 @@ h1, h2, h3{
 
 #ombre {
     text-shadow: 1px 1px 2px black;
+}
+
+#descendre {
+    margin-top: 10%;
 }
 
 p {
